@@ -583,7 +583,7 @@
 }
 .code{
     min-height: 60vh ;
-    min-width: 300px;
+    min-width: 320px;
     border: 1.5px solid gray;
     border-radius: 20px;
     transform: rotatez(2deg);
