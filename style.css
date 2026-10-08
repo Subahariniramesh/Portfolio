@@ -582,8 +582,8 @@
     box-shadow: 0 8px 25px rgba(124, 108, 245, 0.50);
 }
 .code{
-    min-height: 73vh ;
-    min-width: 300px;
+    min-height: 60vh ;
+    min-width: 320px;
     border: 1.5px solid gray;
     border-radius: 20px;
     transform: rotatez(2deg);
@@ -594,6 +594,7 @@
 }
 .code:hover{
     cursor: pointer;
+    rotate: -2deg;
     filter: drop-shadow(2px 2px 20px rgba(139,92,246,0.6));
     border-color: #8b5cf6;
 }
